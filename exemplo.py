@@ -1,1 +1,5 @@
-print('hello')
+
+nome = "Julyanna"
+
+print("Olá, " + nome)
+
